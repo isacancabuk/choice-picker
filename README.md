@@ -2,7 +2,7 @@
 
 ---
 
-## Project 12 - Choice Picker - 50 Projects In 50 Days
+## Project 13 - Choice Picker - 50 Projects In 50 Days
 
 You can reach my website by clicking [here.](https://isacancabuk.github.io/choice-picker/)
 
